@@ -4,13 +4,11 @@
 # But include these directories
 !/agents/
 !/context/
-!/projects/
 !/tools/
 
 # Include all files within those directories
 !/agents/**
 !/context/**
-!/projects/**
 !/tools/**
 
 # Always include README and gitignore

@@ -28,7 +28,7 @@ Take a step back and think step-by-step about how to achieve the best possible r
 * use EXA MCP tools to search for details on any problem you might encounter 
 
 
-# OUTPUT STREUCTURE
+# OUTPUT STRUCTURE
 
 * a survey question phrased in one sentence mentioning what control the question addresses. 
 * a 'what to submit question phrased following this example: '* The **date** (MM/DD/YYYY) when the baseline was established and placed under configuration control. If this is planned, please mention the future date. **If you consider this control not applicable please input 02/02/2000.**' 

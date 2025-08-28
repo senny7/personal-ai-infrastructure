@@ -6,8 +6,12 @@ In this model, applications are the building blocks, meaning that controls are a
 
 NIST 800-171 rev3 is the gold standard used for controls and the tool used to track implementation and gather data is Ardoq. More about ardoq here ~/.claude/context/tools/ardoq/CLAUDE.md.
 
-More about the standard here (use Fetch tool): https://csf.tools/controlset/nist800-171r3-0/
+The standard is json format is here /root/.claude/context/projects/nist171/cprt_SP_800_171_3_0_0_08-28-2025.json
 
 # Project team
 
 - the survey-agent is in charge of creating surveys used in risk data gathering
+
+# Threat Catalogue
+
+Unwanted IT penetrations
