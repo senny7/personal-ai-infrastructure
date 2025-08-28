@@ -1,0 +1,6 @@
+# Team structure
+
+- IT Security team (referenced as ITSec) handles compliance, basically checking that all in-house and SaaS applications follow organisationally defined baselines and policies. 
+- Risk Analyst - works under the IT security team and has a sort-of second line risk management function. He is in charge of developing the control framework and conducting risk and control assessments. The methodology he follows is here ~/.claude/context/methodologies/risk-mgmt/CLAUDE.md
+- IT System owner (referenced as System Owner or just SO) are the IT Custodians. They work on these applications daily and know them inside out. They are responsible for providing context for risk assessments.
+- Business owner (referenced as BO) knows the applications functionally. Think of them as team leads using for example sales pipeline applications. They have no idea how they work under the hood but can tell you why they are used as in what business function they serve, they understand different roles and permissions (ie what their users can do inside these apps) and understand what can go wrong from a risk perspective (ie. delayued revenue, financial loss, reputational damage) should these apps become unavailable 

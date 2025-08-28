@@ -1,0 +1,3 @@
+# Risk Management Methodology
+
+Standard corporate risk management process. We do system classification, then based on that do a control assessment to determine what needs to be implemented and what is implemented. Then we do risk assessments based on different scenarios with the assumption that if a control that mitigates the risk is implemented and reviewed as effective, then it lowers the inherent risk score, hopefully resulting in a residual risk score within appetite. The control framework used is NIST 800-171 rev3
